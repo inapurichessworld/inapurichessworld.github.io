@@ -1,0 +1,129 @@
+#u4042,#u4043,#u4044,#u4045,#u4038
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u3375
+{
+	border-color: #000000;
+	background-color: #020202;
+	-webkit-transform: matrix(0.7071,0.7071,-0.7071,0.7071,27,-14);
+	-ms-transform: matrix(0.7071,0.7071,-0.7071,0.7071,27,-14);
+	-o-transform: matrix(0.7071,0.7071,-0.7071,0.7071,27,-14);
+	transform: matrix(0.7071,0.7071,-0.7071,0.7071,27,-14);
+	position: relative;
+}
+
+#u3376
+{
+	border-color: #000000;
+	background-color: #020202;
+	-webkit-transform: matrix(-0.7071,0.7071,-0.7071,-0.7071,70,23);
+	-ms-transform: matrix(-0.7071,0.7071,-0.7071,-0.7071,70,23);
+	-o-transform: matrix(-0.7071,0.7071,-0.7071,-0.7071,70,23);
+	transform: matrix(-0.7071,0.7071,-0.7071,-0.7071,70,23);
+	position: relative;
+}
+
+#u3377
+{
+	border-color: #000000;
+	position: relative;
+	background: #100F0F url("../images/dark_stripes.jpg") repeat center center;
+}
+
+#u3667-4
+{
+	font-size: 54px;
+	line-height: 65px;
+	color: #FCFEFE;
+	font-family: ubuntu, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u3930
+{
+	vertical-align: top;
+	background: url("../images/u3930.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u3930:hover
+{
+	background: url("../images/u3930-r.png") no-repeat 0px 0px;
+}
+
+#u4040
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #363635;
+	position: relative;
+}
+
+#u3944
+{
+	position: fixed;
+}
+
+#u3449
+{
+	vertical-align: top;
+	background: url("../images/u3449.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u3449:hover
+{
+	background: url("../images/u3449-r.png") no-repeat 0px 0px;
+}
+
+#u3455-18
+{
+	font-size: 17px;
+	line-height: 20px;
+	color: #363635;
+	font-family: ubuntu, sans-serif;
+	font-weight: 500;
+	position: relative;
+}
+
+#u3384
+{
+	border-color: #000000;
+	background-color: #020202;
+	-webkit-transform: matrix(0.9397,-0.342,0.342,0.9397,-14,36);
+	-ms-transform: matrix(0.9397,-0.342,0.342,0.9397,-14,36);
+	-o-transform: matrix(0.9397,-0.342,0.342,0.9397,-14,36);
+	transform: matrix(0.9397,-0.342,0.342,0.9397,-14,36);
+	position: relative;
+}
+
+#u3385
+{
+	border-color: #000000;
+	background-color: #020202;
+	-webkit-transform: matrix(-0.9397,-0.342,0.342,-0.9397,166,146);
+	-ms-transform: matrix(-0.9397,-0.342,0.342,-0.9397,166,146);
+	-o-transform: matrix(-0.9397,-0.342,0.342,-0.9397,166,146);
+	transform: matrix(-0.9397,-0.342,0.342,-0.9397,166,146);
+	position: relative;
+}
+
+#u3386
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/dark_mosaic.jpg") repeat center center;
+}
+
+#u3456-3,#u4030
+{
+	position: relative;
+}
+
