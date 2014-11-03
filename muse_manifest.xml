@@ -6,7 +6,7 @@
     <file name="iefonts_index.css" crc="3859432912" ref="index"/>
     <file name="tournaments.css" crc="425006399" ref="tournaments"/>
     <file name="iefonts_tournaments.css" crc="131267074" ref="tournaments"/>
-    <file name="submit-form.css" crc="3909732632" ref="submit-form"/>
+    <file name="submit-form.css" crc="4194956851" ref="submit-form"/>
     <file name="iefonts_submit-form.css" crc="509481172" ref="submit-form"/>
   </folder>
   <folder name="scripts">
@@ -26,7 +26,7 @@
     <file name="jquery.scrolleffects.js" crc="56249048" ref="tournaments:index:submit-form"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4072709039" ref="phone>index:tournaments"/>
+    <file name="favicon.ico" crc="4072709039" ref="phone>index:tournaments:submit-form"/>
     <file name="pw_maze_white.jpg" crc="132333382" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="1334x276.jpg" crc="175101803" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
@@ -39,7 +39,7 @@
     <file name="cwwhite120.png" crc="4171973371" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="menu_icon_04_white_3line-u810.png" crc="4128656372" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="shelf shadow 1 lifted corners.png" crc="511670486" ref="phone>index:index"/>
-    <file name="dark_mosaic.jpg" crc="3960560494" ref="phone>index:tournaments"/>
+    <file name="dark_mosaic.jpg" crc="3960560494" ref="phone>index:tournaments:submit-form"/>
     <file name="mac1-u1144-fr.jpg" crc="3949948724" ref="phone>tutors"/>
     <file name="mac2-u1143-fr.jpg" crc="4190844597" ref="phone>tutors"/>
     <file name="mac3-u1145-fr.jpg" crc="268646721" ref="phone>tutors"/>
@@ -52,7 +52,7 @@
     <file name="saket-u4368-fr.jpg" crc="23520166" ref="phone>tournaments"/>
     <file name="ravenna.jpg" crc="4086623427" ref="tournaments:index:submit-form"/>
     <file name="skelatal_weave.jpg" crc="4245106006" ref="tournaments:index:submit-form"/>
-    <file name="dark_stripes.jpg" crc="3775348307" ref="tournaments"/>
+    <file name="dark_stripes.jpg" crc="3775348307" ref="tournaments:submit-form"/>
     <file name="u3930.png" crc="413834297" ref="tournaments:index:submit-form"/>
     <file name="u3930-r.png" crc="31791008" ref="tournaments:index:submit-form"/>
     <file name="lahariweb-u2277-fr.jpg" crc="185514344" ref="tournaments"/>
@@ -114,5 +114,5 @@
   </folder>
   <file name="tournaments.html" crc="4105142642" mt="1414981647664" redirect="true"/>
   <file name="index.html" crc="4249850165" mt="1414981487414" redirect="true"/>
-  <file name="submit-form.html" crc="3818315503" mt="1414981929414" redirect="true"/>
+  <file name="submit-form.html" crc="3818315503" mt="1414982401310" redirect="true"/>
 </manifest>
