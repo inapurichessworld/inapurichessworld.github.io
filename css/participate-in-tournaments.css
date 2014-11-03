@@ -111,8 +111,15 @@
 	margin-right: -10000px;
 	margin-top: 118px;
 	left: 26px;
-	padding: 139px 195px 562px;
+	padding: 152px 195px 562px;
 	background: #FFFFFF url("../images/skelatal_weave.jpg") repeat center center;
+}
+
+#u3456-3
+{
+	z-index: 16;
+	width: 5px;
+	margin-left: 395px;
 }
 
 #u4457-5
@@ -125,6 +132,7 @@
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	margin-left: 44px;
+	margin-top: 88px;
 	position: relative;
 }
 
@@ -141,7 +149,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 127px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -174,15 +182,6 @@
 	margin-right: -10000px;
 	margin-top: 81px;
 	left: 333px;
-}
-
-#u3456-3
-{
-	z-index: 16;
-	width: 5px;
-	margin-right: -10000px;
-	margin-top: 270px;
-	left: 615px;
 }
 
 #u3930
