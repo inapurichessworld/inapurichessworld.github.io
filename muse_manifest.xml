@@ -1,15 +1,17 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3883311379"/>
-    <file name="master_b-master.css" crc="309617831" ref="index:tournaments"/>
-    <file name="index.css" crc="3312274" ref="index"/>
+    <file name="master_b-master.css" crc="202314629" ref="index:tournaments:submit-form"/>
+    <file name="index.css" crc="3999237804" ref="index"/>
     <file name="iefonts_index.css" crc="3859432912" ref="index"/>
-    <file name="tournaments.css" crc="496480652" ref="tournaments"/>
+    <file name="tournaments.css" crc="425006399" ref="tournaments"/>
     <file name="iefonts_tournaments.css" crc="131267074" ref="tournaments"/>
+    <file name="submit-form.css" crc="3909732632" ref="submit-form"/>
+    <file name="iefonts_submit-form.css" crc="509481172" ref="submit-form"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index"/>
-    <file name="museutils.js" crc="3880880085" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index:submit-form"/>
+    <file name="museutils.js" crc="3880880085" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index:submit-form"/>
     <file name="webpro.js" crc="33264525" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tournaments:index"/>
     <file name="musewpslideshow.js" crc="272207905" ref="phone>index:phone>tutors:phone>tournaments:tournaments:index"/>
     <file name="jquery.museoverlay.js" crc="466079611" ref="phone>index:phone>tutors:phone>tournaments:tournaments:index"/>
@@ -17,14 +19,14 @@
     <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="jquery.musemenu.js" crc="32367222" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="musewpdisclosure.js" crc="250538392" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index"/>
-    <file name="pie.js" crc="4147615982" ref="phone>tutors:phone>tournaments:tournaments:index"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index:submit-form"/>
+    <file name="pie.js" crc="4147615982" ref="phone>tutors:phone>tournaments:tournaments:index:submit-form"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="phone>tutors:index"/>
     <file name="museredirect.js" crc="299715755" ref="tournaments:index"/>
-    <file name="jquery.scrolleffects.js" crc="56249048" ref="tournaments:index"/>
+    <file name="jquery.scrolleffects.js" crc="56249048" ref="tournaments:index:submit-form"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="301944145" ref="phone>index"/>
+    <file name="favicon.ico" crc="4072709039" ref="phone>index:tournaments"/>
     <file name="pw_maze_white.jpg" crc="132333382" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="1334x276.jpg" crc="175101803" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
@@ -48,18 +50,18 @@
     <file name="winner1web-u2310-fr.jpg" crc="4150638594" ref="phone>tournaments"/>
     <file name="u4367.png" crc="86275675" ref="phone>tournaments"/>
     <file name="saket-u4368-fr.jpg" crc="23520166" ref="phone>tournaments"/>
-    <file name="ravenna.jpg" crc="4086623427" ref="tournaments:index"/>
-    <file name="skelatal_weave.jpg" crc="4245106006" ref="tournaments:index"/>
+    <file name="ravenna.jpg" crc="4086623427" ref="tournaments:index:submit-form"/>
+    <file name="skelatal_weave.jpg" crc="4245106006" ref="tournaments:index:submit-form"/>
     <file name="dark_stripes.jpg" crc="3775348307" ref="tournaments"/>
-    <file name="u3930.png" crc="413834297" ref="tournaments:index"/>
-    <file name="u3930-r.png" crc="31791008" ref="tournaments:index"/>
+    <file name="u3930.png" crc="413834297" ref="tournaments:index:submit-form"/>
+    <file name="u3930-r.png" crc="31791008" ref="tournaments:index:submit-form"/>
     <file name="lahariweb-u2277-fr.jpg" crc="185514344" ref="tournaments"/>
     <file name="winner1web-u2278-fr.jpg" crc="322345422" ref="tournaments"/>
     <file name="3-u4129-fr.jpg" crc="16389017" ref="tournaments"/>
     <file name="saket-u4239-fr.jpg" crc="417682353" ref="tournaments"/>
-    <file name="u3449.png" crc="4075674391" ref="tournaments:index"/>
-    <file name="u3449-r.png" crc="4253457597" ref="tournaments:index"/>
-    <file name="dxartistflat300blue.png" crc="4056931705" ref="tournaments:index"/>
+    <file name="u3449.png" crc="4075674391" ref="tournaments:index:submit-form"/>
+    <file name="u3449-r.png" crc="4253457597" ref="tournaments:index:submit-form"/>
+    <file name="dxartistflat300blue.png" crc="4056931705" ref="tournaments:index:submit-form"/>
     <file name="mane-favicon.ico" crc="3937941943" ref="index"/>
     <file name="draw.png" crc="23792107" ref="index"/>
     <file name="phone.png" crc="3790242646" ref="index"/>
@@ -76,6 +78,7 @@
     <file name="mac3.jpg" crc="4118047943" ref="index"/>
     <file name="fill 10-u3989.png" crc="3804360818" ref="index"/>
     <file name="rum2ogr.png" crc="395560519" ref="index"/>
+    <file name="u4455-4.png" crc="3821327226" ref="tournaments"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -109,6 +112,7 @@
     <file name="founder.html" crc="4214273379" mt="1413708435128" redirect="true"/>
     <file name="tournaments.html" crc="333620183" mt="1413708435136" redirect="true"/>
   </folder>
-  <file name="tournaments.html" crc="305992739" mt="1413708290581" redirect="true"/>
-  <file name="index.html" crc="132183959" mt="1413708290586" redirect="true"/>
+  <file name="tournaments.html" crc="4105142642" mt="1414981647664" redirect="true"/>
+  <file name="index.html" crc="4249850165" mt="1414981487414" redirect="true"/>
+  <file name="submit-form.html" crc="3818315503" mt="1414981929414" redirect="true"/>
 </manifest>
