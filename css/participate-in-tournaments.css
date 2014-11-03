@@ -27,7 +27,7 @@
 
 #u4042
 {
-	z-index: 51;
+	z-index: 50;
 	width: 176px;
 	min-height: 100px;
 	margin-right: -10000px;
@@ -35,7 +35,7 @@
 
 #u4043
 {
-	z-index: 52;
+	z-index: 51;
 	width: 179px;
 	min-height: 100px;
 	margin-right: -10000px;
@@ -44,7 +44,7 @@
 
 #u4044
 {
-	z-index: 53;
+	z-index: 52;
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
@@ -53,7 +53,7 @@
 
 #u4045
 {
-	z-index: 54;
+	z-index: 53;
 	width: 200px;
 	min-height: 100px;
 	margin-right: -10000px;
@@ -62,7 +62,7 @@
 
 #u4038
 {
-	z-index: 50;
+	z-index: 49;
 	width: 100px;
 	min-height: 20px;
 	margin-right: -10000px;
@@ -117,14 +117,14 @@
 
 #u3456-3
 {
-	z-index: 16;
+	z-index: 15;
 	width: 5px;
 	margin-left: 395px;
 }
 
 #u4457-5
 {
-	z-index: 9;
+	z-index: 8;
 	width: 711px;
 	min-height: 63px;
 	line-height: 31px;
@@ -153,22 +153,9 @@
 	position: relative;
 }
 
-#u4438
-{
-	z-index: 8;
-	width: 820px;
-	height: 371px;
-	border-color: #000000;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 920px;
-	left: 212px;
-	background: #FFFFFF url("../images/skelatal_weave.jpg") repeat center center;
-}
-
 #u3377
 {
-	z-index: 14;
+	z-index: 13;
 	width: 1241px;
 	padding-bottom: 3px;
 	margin-right: -10000px;
@@ -176,7 +163,7 @@
 
 #u3667-4
 {
-	z-index: 19;
+	z-index: 18;
 	width: 564px;
 	min-height: 67px;
 	margin-right: -10000px;
@@ -186,7 +173,7 @@
 
 #u3930
 {
-	z-index: 24;
+	z-index: 23;
 	height: 146px;
 	width: 146px;
 	margin-right: -10000px;
@@ -196,7 +183,7 @@
 
 #u4040
 {
-	z-index: 55;
+	z-index: 54;
 	width: 189px;
 	min-height: 159px;
 	margin-right: -10000px;
@@ -206,7 +193,7 @@
 
 #u3944
 {
-	z-index: 28;
+	z-index: 27;
 	width: 340px;
 	top: 123px;
 	left: 841px;
@@ -214,7 +201,7 @@
 
 #u3449
 {
-	z-index: 30;
+	z-index: 29;
 	height: 29px;
 	width: 29px;
 	margin-right: -10000px;
@@ -222,7 +209,7 @@
 
 #u3455-18
 {
-	z-index: 32;
+	z-index: 31;
 	width: 298px;
 	min-height: 16px;
 	margin-right: -10000px;
@@ -261,7 +248,7 @@
 
 #u3386
 {
-	z-index: 15;
+	z-index: 14;
 	width: 1337px;
 	padding-bottom: 43px;
 	margin-right: -10000px;
@@ -270,7 +257,7 @@
 
 #u4030
 {
-	z-index: 26;
+	z-index: 25;
 	width: 138px;
 	margin-right: -10000px;
 	margin-top: 43px;
