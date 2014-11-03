@@ -6,7 +6,7 @@
     <file name="iefonts_index.css" crc="3859432912" ref="index"/>
     <file name="tournaments.css" crc="425006399" ref="tournaments"/>
     <file name="iefonts_tournaments.css" crc="131267074" ref="tournaments"/>
-    <file name="submit-form.css" crc="535154698" ref="submit-form"/>
+    <file name="submit-form.css" crc="216441206" ref="submit-form"/>
     <file name="iefonts_submit-form.css" crc="509481172" ref="submit-form"/>
   </folder>
   <folder name="scripts">
@@ -114,5 +114,5 @@
   </folder>
   <file name="tournaments.html" crc="4105142642" mt="1414981647664" redirect="true"/>
   <file name="index.html" crc="4249850165" mt="1414981487414" redirect="true"/>
-  <file name="submit-form.html" crc="3818315503" mt="1414982538471" redirect="true"/>
+  <file name="submit-form.html" crc="4132460391" mt="1414982878837" redirect="true"/>
 </manifest>
