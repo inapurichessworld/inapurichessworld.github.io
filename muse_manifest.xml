@@ -96,28 +96,28 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_a-master.css" crc="53430855" ref="phone>contact:phone>feedback:phone>founder:phone>index:phone>tournaments:phone>tutors:phone>about"/>
-      <file name="contact.css" crc="3762561803" ref="phone>contact"/>
+      <file name="contact.css" crc="483959562" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="71795859" ref="phone>contact"/>
-      <file name="feedback.css" crc="417733681" ref="phone>feedback"/>
+      <file name="feedback.css" crc="3947709045" ref="phone>feedback"/>
       <file name="iefonts_feedback.css" crc="3914286891" ref="phone>feedback"/>
-      <file name="founder.css" crc="186234790" ref="phone>founder"/>
+      <file name="founder.css" crc="413971220" ref="phone>founder"/>
       <file name="iefonts_founder.css" crc="511923090" ref="phone>founder"/>
-      <file name="index.css" crc="4110345647" ref="phone>index"/>
+      <file name="index.css" crc="4151845404" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4294301825" ref="phone>index"/>
-      <file name="tournaments.css" crc="87633795" ref="phone>tournaments"/>
+      <file name="tournaments.css" crc="4288882458" ref="phone>tournaments"/>
       <file name="iefonts_tournaments.css" crc="125004002" ref="phone>tournaments"/>
-      <file name="tutors.css" crc="4176865747" ref="phone>tutors"/>
+      <file name="tutors.css" crc="413156100" ref="phone>tutors"/>
       <file name="iefonts_tutors.css" crc="251763601" ref="phone>tutors"/>
-      <file name="about.css" crc="445590756" ref="phone>about"/>
+      <file name="about.css" crc="418771074" ref="phone>about"/>
       <file name="iefonts_about.css" crc="3939416788" ref="phone>about"/>
     </folder>
-    <file name="index.html" crc="4056614902" mt="1416206662071" redirect="true"/>
-    <file name="about.html" crc="3951000932" mt="1416206662071" redirect="true"/>
-    <file name="tutors.html" crc="348871572" mt="1416206662071" redirect="true"/>
-    <file name="contact.html" crc="27656008" mt="1416206662071" redirect="true"/>
-    <file name="feedback.html" crc="504605756" mt="1416206662086" redirect="true"/>
-    <file name="founder.html" crc="419775958" mt="1416206662086" redirect="true"/>
-    <file name="tournaments.html" crc="3832879648" mt="1416206662086" redirect="true"/>
+    <file name="index.html" crc="351434034" mt="1416206995471" redirect="true"/>
+    <file name="about.html" crc="342606846" mt="1416206995502" redirect="true"/>
+    <file name="tutors.html" crc="4058399235" mt="1416206995502" redirect="true"/>
+    <file name="contact.html" crc="4086588140" mt="1416206995502" redirect="true"/>
+    <file name="feedback.html" crc="3979916351" mt="1416206995518" redirect="true"/>
+    <file name="founder.html" crc="3777715638" mt="1416206995518" redirect="true"/>
+    <file name="tournaments.html" crc="3952059902" mt="1416206995518" redirect="true"/>
   </folder>
   <file name="tournaments.html" crc="239681955" mt="1416204604299" redirect="true"/>
   <file name="index.html" crc="6719708" mt="1416204604315" redirect="true"/>
