@@ -1,10 +1,10 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3883311379"/>
-    <file name="master_b-master.css" crc="478491599" ref="tournaments:index:participate-in-tournaments"/>
-    <file name="tournaments.css" crc="3793588096" ref="tournaments"/>
+    <file name="master_b-master.css" crc="202314629" ref="tournaments:index:participate-in-tournaments"/>
+    <file name="tournaments.css" crc="3836016455" ref="tournaments"/>
     <file name="iefonts_tournaments.css" crc="4047060557" ref="tournaments"/>
-    <file name="index.css" crc="4219500741" ref="index"/>
+    <file name="index.css" crc="98364406" ref="index"/>
     <file name="iefonts_index.css" crc="4172661620" ref="index"/>
     <file name="participate-in-tournaments.css" crc="460707660" ref="participate-in-tournaments"/>
     <file name="iefonts_participate-in-tournaments.css" crc="509481172" ref="participate-in-tournaments"/>
@@ -21,12 +21,12 @@
     <file name="musewpdisclosure.js" crc="250538392" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index:participate-in-tournaments"/>
     <file name="pie.js" crc="4147615982" ref="phone>tutors:phone>tournaments:tournaments:index:participate-in-tournaments"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="phone>tutors:tournaments:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="phone>tutors:tournaments:index:phone>tournaments"/>
     <file name="museredirect.js" crc="299715755" ref="tournaments:index"/>
     <file name="jquery.scrolleffects.js" crc="56249048" ref="tournaments:index:participate-in-tournaments"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="301944145" ref="phone>index"/>
+    <file name="favicon.ico" crc="301944145" ref="phone>index:phone>tournaments"/>
     <file name="pw_maze_white.jpg" crc="132333382" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="1334x276.jpg" crc="175101803" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
@@ -39,7 +39,7 @@
     <file name="cwwhite120.png" crc="4171973371" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="menu_icon_04_white_3line-u810.png" crc="4128656372" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="shelf shadow 1 lifted corners.png" crc="511670486" ref="phone>index:index"/>
-    <file name="dark_mosaic.jpg" crc="3960560494" ref="phone>index:tournaments"/>
+    <file name="dark_mosaic.jpg" crc="3960560494" ref="phone>index:tournaments:phone>tournaments"/>
     <file name="mac1-u1144-fr.jpg" crc="3949948724" ref="phone>tutors"/>
     <file name="mac2-u1143-fr.jpg" crc="4190844597" ref="phone>tutors"/>
     <file name="mac3-u1145-fr.jpg" crc="268646721" ref="phone>tutors"/>
@@ -62,8 +62,8 @@
     <file name="saket-u4239-fr.jpg" crc="417682353" ref="tournaments"/>
     <file name="anvila-web-u4596-fr.jpg" crc="464736926" ref="tournaments"/>
     <file name="saket3web-u4600-fr.jpg" crc="29014013" ref="tournaments"/>
-    <file name="beginner-icw.jpg" crc="477538657" ref="tournaments"/>
-    <file name="advanced-icw.jpg" crc="3770410724" ref="tournaments"/>
+    <file name="beginner-icw.jpg" crc="477538657" ref="tournaments:phone>tournaments"/>
+    <file name="advanced-icw.jpg" crc="3770410724" ref="tournaments:phone>tournaments"/>
     <file name="u3449.png" crc="4075674391" ref="tournaments:index:participate-in-tournaments"/>
     <file name="u3449-r.png" crc="4253457597" ref="tournaments:index:participate-in-tournaments"/>
     <file name="dxartistflat300blue.png" crc="4056931705" ref="tournaments:index:participate-in-tournaments"/>
@@ -84,6 +84,8 @@
     <file name="mac3.jpg" crc="4118047943" ref="index"/>
     <file name="fill 10-u3989.png" crc="3804360818" ref="index"/>
     <file name="rum2ogr.png" crc="395560519" ref="index"/>
+    <file name="anvila-web-u4926-fr.jpg" crc="4000683093" ref="phone>tournaments"/>
+    <file name="saket3web-u4930-fr.jpg" crc="3885900526" ref="phone>tournaments"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -93,7 +95,7 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="317999374" ref="phone>tutors:phone>feedback:phone>contact:phone>founder:phone>index:phone>tournaments:phone>about"/>
+      <file name="master_a-master.css" crc="476264744" ref="phone>tutors:phone>feedback:phone>contact:phone>founder:phone>index:phone>tournaments:phone>about"/>
       <file name="tutors.css" crc="272865219" ref="phone>tutors"/>
       <file name="iefonts_tutors.css" crc="251763601" ref="phone>tutors"/>
       <file name="feedback.css" crc="4136976446" ref="phone>feedback"/>
@@ -104,8 +106,8 @@
       <file name="iefonts_founder.css" crc="511923090" ref="phone>founder"/>
       <file name="index.css" crc="197758670" ref="phone>index"/>
       <file name="iefonts_index.css" crc="4294301825" ref="phone>index"/>
-      <file name="tournaments.css" crc="413055611" ref="phone>tournaments"/>
-      <file name="iefonts_tournaments.css" crc="77245740" ref="phone>tournaments"/>
+      <file name="tournaments.css" crc="161683322" ref="phone>tournaments"/>
+      <file name="iefonts_tournaments.css" crc="125004002" ref="phone>tournaments"/>
       <file name="about.css" crc="3766915679" ref="phone>about"/>
       <file name="iefonts_about.css" crc="3939416788" ref="phone>about"/>
     </folder>
@@ -115,9 +117,9 @@
     <file name="contact.html" crc="4114138119" mt="1413708435118" redirect="true"/>
     <file name="feedback.html" crc="318479828" mt="1413708435123" redirect="true"/>
     <file name="founder.html" crc="4214273379" mt="1413708435128" redirect="true"/>
-    <file name="tournaments.html" crc="333620183" mt="1413708435136" redirect="true"/>
+    <file name="tournaments.html" crc="3861849228" mt="1416205407636" redirect="true"/>
   </folder>
-  <file name="tournaments.html" crc="3994504146" mt="1415348093221" redirect="true"/>
-  <file name="index.html" crc="4115566774" mt="1415424906486" redirect="true"/>
-  <file name="participate-in-tournaments.html" crc="4051412789" mt="1415424969082" redirect="true"/>
+  <file name="tournaments.html" crc="239681955" mt="1416204604299" redirect="true"/>
+  <file name="index.html" crc="6719708" mt="1416204604315" redirect="true"/>
+  <file name="participate-in-tournaments.html" crc="287681860" mt="1416204604331" redirect="true"/>
 </manifest>

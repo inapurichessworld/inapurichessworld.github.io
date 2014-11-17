@@ -7,10 +7,10 @@
 
 #u812-7
 {
-	color: #FFFFFF;
-	line-height: 31px;
-	text-align: center;
 	font-size: 26px;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 31px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -149,9 +149,9 @@
 
 #u818-4,#u819-7
 {
-	line-height: 14px;
-	color: #FFFFFF;
 	font-size: 12px;
+	color: #FFFFFF;
+	line-height: 14px;
 	font-family: open-sans, sans-serif;
 	font-weight: 300;
 	position: relative;

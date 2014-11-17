@@ -37,9 +37,9 @@
 
 #u3667-4
 {
-	line-height: 65px;
-	color: #FCFEFE;
 	font-size: 54px;
+	color: #FCFEFE;
+	line-height: 65px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 700;
 	position: relative;
@@ -85,9 +85,9 @@
 
 #u3455-18
 {
-	line-height: 20px;
-	color: #363635;
 	font-size: 17px;
+	color: #363635;
+	line-height: 20px;
 	font-family: ubuntu, sans-serif;
 	font-weight: 500;
 	position: relative;
