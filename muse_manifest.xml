@@ -2,11 +2,11 @@
   <folder name="css">
     <file name="site_global.css" crc="3883311379"/>
     <file name="master_b-master.css" crc="478491599" ref="participate-in-tournaments:index:tournaments"/>
-    <file name="participate-in-tournaments.css" crc="460707660" ref="participate-in-tournaments"/>
+    <file name="participate-in-tournaments.css" crc="19387724" ref="participate-in-tournaments"/>
     <file name="iefonts_participate-in-tournaments.css" crc="509481172" ref="participate-in-tournaments"/>
-    <file name="index.css" crc="82133534" ref="index"/>
+    <file name="index.css" crc="4108670675" ref="index"/>
     <file name="iefonts_index.css" crc="4194817267" ref="index"/>
-    <file name="tournaments.css" crc="3793588096" ref="tournaments"/>
+    <file name="tournaments.css" crc="376970942" ref="tournaments"/>
     <file name="iefonts_tournaments.css" crc="4047060557" ref="tournaments"/>
   </folder>
   <folder name="scripts">
@@ -26,7 +26,7 @@
     <file name="jquery.scrolleffects.js" crc="56249048" ref="tournaments:index:participate-in-tournaments"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="301944145" ref="phone>index"/>
+    <file name="favicon.ico" crc="4072709039" ref="phone>index:tournaments"/>
     <file name="pw_maze_white.jpg" crc="132333382" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="1334x276.jpg" crc="175101803" ref="phone>index"/>
     <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
@@ -119,7 +119,7 @@
     <file name="founder.html" crc="3777715638" mt="1417487804642" redirect="true"/>
     <file name="tournaments.html" crc="357669636" mt="1417488076490" redirect="true"/>
   </folder>
-  <file name="tournaments.html" crc="3994504146" mt="1417488398898" redirect="true"/>
-  <file name="index.html" crc="4114318135" mt="1417488846592" redirect="true"/>
-  <file name="participate-in-tournaments.html" crc="4051412789" mt="1416204604331" redirect="true"/>
+  <file name="tournaments.html" crc="3994504146" mt="1417489597859" redirect="true"/>
+  <file name="index.html" crc="3758304987" mt="1417489597859" redirect="true"/>
+  <file name="participate-in-tournaments.html" crc="4051412789" mt="1417489597874" redirect="true"/>
 </manifest>
