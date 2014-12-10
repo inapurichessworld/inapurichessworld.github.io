@@ -4,7 +4,7 @@
     <file name="master_b-master.css" crc="388284250" ref="participate-in-tournaments:index:tournaments"/>
     <file name="participate-in-tournaments.css" crc="19387724" ref="participate-in-tournaments"/>
     <file name="iefonts_participate-in-tournaments.css" crc="509481172" ref="participate-in-tournaments"/>
-    <file name="index.css" crc="339378487" ref="index"/>
+    <file name="index.css" crc="4157008088" ref="index"/>
     <file name="iefonts_index.css" crc="4029216662" ref="index"/>
     <file name="tournaments.css" crc="376970942" ref="tournaments"/>
     <file name="iefonts_tournaments.css" crc="4047060557" ref="tournaments"/>
@@ -120,6 +120,6 @@
     <file name="tournaments.html" crc="357669636" mt="1417488076490" redirect="true"/>
   </folder>
   <file name="tournaments.html" crc="3994504146" mt="1417489597859" redirect="true"/>
-  <file name="index.html" crc="3774001351" mt="1418215197802" redirect="true"/>
+  <file name="index.html" crc="3774001351" mt="1418215394408" redirect="true"/>
   <file name="participate-in-tournaments.html" crc="4051412789" mt="1417489597874" redirect="true"/>
 </manifest>
