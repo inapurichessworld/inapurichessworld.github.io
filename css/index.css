@@ -112,7 +112,7 @@
 	margin-right: -10000px;
 	margin-top: 151px;
 	left: 26px;
-	padding: 119px 15px 253px;
+	padding: 119px 15px 36.05000000000018px;
 	background: #FFFFFF url("../images/skelatal_weave.jpg") repeat center center;
 }
 
@@ -222,8 +222,8 @@
 #pu3822
 {
 	width: 0.01px;
-	margin-left: 300px;
-	margin-top: 185px;
+	margin-left: 288px;
+	margin-top: 189px;
 	position: relative;
 }
 
@@ -247,15 +247,15 @@
 	font-weight: 300;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
-	left: 68px;
+	margin-top: 10px;
+	left: 80px;
 }
 
 #pu3824
 {
 	width: 0.01px;
 	margin-left: 288px;
-	margin-top: 18px;
+	margin-top: 14px;
 	position: relative;
 }
 
@@ -444,6 +444,27 @@
 	font-weight: 300;
 }
 
+#pu5098
+{
+	width: 0.01px;
+	margin-left: 31px;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u5098
+{
+	z-index: 278;
+	width: 336px;
+	min-height: 284px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+}
+
 #u4052
 {
 	z-index: 30;
@@ -452,9 +473,9 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 663px;
-	margin-top: 32px;
 	position: relative;
+	margin-right: -10000px;
+	left: 632px;
 }
 
 #home
@@ -1482,20 +1503,6 @@
 	margin-right: -10000px;
 	margin-top: 200px;
 	left: 716px;
-}
-
-#u5098
-{
-	z-index: 278;
-	width: 336px;
-	min-height: 284px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 5821px;
-	left: 76px;
 }
 
 #u4040
