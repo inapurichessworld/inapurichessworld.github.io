@@ -1,11 +1,11 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3883311379"/>
-    <file name="master_b-master.css" crc="478491599" ref="participate-in-tournaments:index:tournaments"/>
+    <file name="master_b-master.css" crc="388284250" ref="participate-in-tournaments:index:tournaments"/>
     <file name="participate-in-tournaments.css" crc="19387724" ref="participate-in-tournaments"/>
     <file name="iefonts_participate-in-tournaments.css" crc="509481172" ref="participate-in-tournaments"/>
-    <file name="index.css" crc="4108670675" ref="index"/>
-    <file name="iefonts_index.css" crc="4194817267" ref="index"/>
+    <file name="index.css" crc="393882275" ref="index"/>
+    <file name="iefonts_index.css" crc="4029216662" ref="index"/>
     <file name="tournaments.css" crc="376970942" ref="tournaments"/>
     <file name="iefonts_tournaments.css" crc="4047060557" ref="tournaments"/>
   </folder>
@@ -39,7 +39,7 @@
     <file name="cwwhite120.png" crc="4171973371" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="menu_icon_04_white_3line-u810.png" crc="4128656372" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments"/>
     <file name="shelf shadow 1 lifted corners.png" crc="511670486" ref="phone>index:index"/>
-    <file name="dark_mosaic.jpg" crc="3960560494" ref="phone>index:tournaments"/>
+    <file name="dark_mosaic.jpg" crc="3960560494" ref="phone>index:tournaments:index"/>
     <file name="mac1-u1144-fr.jpg" crc="3949948724" ref="phone>tutors"/>
     <file name="mac2-u1143-fr.jpg" crc="4190844597" ref="phone>tutors"/>
     <file name="mac3-u1145-fr.jpg" crc="268646721" ref="phone>tutors"/>
@@ -56,7 +56,7 @@
     <file name="advanced-icw.jpg" crc="3770410724" ref="phone>tournaments:tournaments"/>
     <file name="ravenna.jpg" crc="4086623427" ref="tournaments:index:participate-in-tournaments"/>
     <file name="skelatal_weave.jpg" crc="4245106006" ref="tournaments:index:participate-in-tournaments"/>
-    <file name="dark_stripes.jpg" crc="3775348307" ref="tournaments"/>
+    <file name="dark_stripes.jpg" crc="3775348307" ref="tournaments:index"/>
     <file name="u4455-4.png" crc="3821327226" ref="tournaments"/>
     <file name="u3930.png" crc="413834297" ref="tournaments:index:participate-in-tournaments"/>
     <file name="u3930-r.png" crc="31791008" ref="tournaments:index:participate-in-tournaments"/>
@@ -120,6 +120,6 @@
     <file name="tournaments.html" crc="357669636" mt="1417488076490" redirect="true"/>
   </folder>
   <file name="tournaments.html" crc="3994504146" mt="1417489597859" redirect="true"/>
-  <file name="index.html" crc="3758304987" mt="1417489597859" redirect="true"/>
+  <file name="index.html" crc="365347241" mt="1418214619193" redirect="true"/>
   <file name="participate-in-tournaments.html" crc="4051412789" mt="1417489597874" redirect="true"/>
 </manifest>
