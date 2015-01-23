@@ -1,13 +1,13 @@
 <manifest alg="2" build="30" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3883311379"/>
-    <file name="master_b-master.css" crc="388284250" ref="participate-in-tournaments:index:tournaments"/>
+    <file name="master_b-master.css" crc="462333526" ref="participate-in-tournaments:index:tournaments"/>
     <file name="participate-in-tournaments.css" crc="19387724" ref="participate-in-tournaments"/>
     <file name="iefonts_participate-in-tournaments.css" crc="509481172" ref="participate-in-tournaments"/>
-    <file name="index.css" crc="204399716" ref="index"/>
-    <file name="iefonts_index.css" crc="4029216662" ref="index"/>
-    <file name="tournaments.css" crc="376970942" ref="tournaments"/>
-    <file name="iefonts_tournaments.css" crc="4047060557" ref="tournaments"/>
+    <file name="index.css" crc="4089783016" ref="index"/>
+    <file name="iefonts_index.css" crc="183281272" ref="index"/>
+    <file name="tournaments.css" crc="433452816" ref="tournaments"/>
+    <file name="iefonts_tournaments.css" crc="350640763" ref="tournaments"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>about:phone>tutors:phone>contact:phone>feedback:phone>founder:phone>tournaments:tablet>index:tournaments:index:participate-in-tournaments"/>
@@ -86,6 +86,13 @@
     <file name="mac3.jpg" crc="4118047943" ref="index"/>
     <file name="fill 10-u3989.png" crc="3804360818" ref="index"/>
     <file name="rum2ogr.png" crc="395560519" ref="index"/>
+    <file name="vineel-u5142-fr.jpg" crc="363566159" ref="tournaments"/>
+    <file name="meghana-u5146-fr.jpg" crc="4090667896" ref="tournaments"/>
+    <file name="beginner-standings.jpg" crc="3987636974" ref="tournaments"/>
+    <file name="advanced.jpg" crc="322200466" ref="tournaments"/>
+    <file name="parent.jpg" crc="390837952" ref="tournaments"/>
+    <file name="meghana.jpg" crc="3858933055" ref="index"/>
+    <file name="vineel.jpg" crc="85839692" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -119,7 +126,7 @@
     <file name="founder.html" crc="3777715638" mt="1417487804642" redirect="true"/>
     <file name="tournaments.html" crc="357669636" mt="1417488076490" redirect="true"/>
   </folder>
-  <file name="tournaments.html" crc="3994504146" mt="1417489597859" redirect="true"/>
-  <file name="index.html" crc="3774001351" mt="1418215503349" redirect="true"/>
+  <file name="tournaments.html" crc="4165816117" mt="1422043069344" redirect="true"/>
+  <file name="index.html" crc="3937097876" mt="1422043417242" redirect="true"/>
   <file name="participate-in-tournaments.html" crc="4051412789" mt="1417489597874" redirect="true"/>
 </manifest>
